@@ -1,6 +1,6 @@
-# Amys_LinkMiner
+# LinkMiner
 
-Amys_LinkMiner is a web scraping tool designed to extract hyperlinks from a given URL. It iteratively collects up to 1000 unique links, ensuring efficiency and robustness in its web crawling. The project is written in Python and leverages popular libraries such as BeautifulSoup and Requests.
+LinkMiner is a web scraping tool designed to extract hyperlinks from a given URL. It iteratively collects up to 1000 unique links, ensuring efficiency and robustness in its web crawling. The project is written in Python and leverages popular libraries such as BeautifulSoup and Requests.
 
 # Features
 
@@ -16,7 +16,7 @@ Amys_LinkMiner is a web scraping tool designed to extract hyperlinks from a give
 
 # Requirements
 
-To run Amys_LinkMiner, you need to have the following Python packages installed:
+To run LinkMiner, you need to have the following Python packages installed:
 
 - beautifulsoup4
 
@@ -47,12 +47,12 @@ pip install -r requirements.txt
 2- Clone the repository:
 
 ```
-git clone github.com/komyl/Amys_LinkMiner.git
+git clone github.com/komyl/LinkMiner.git
 ```
 3- Navigate to the project directory:
 
 ```
-cd Amys_LinkMiner
+cd LinkMiner
 ```
 
 4- Install the required dependencies:
@@ -64,7 +64,7 @@ pip install -r requirements.txt
 
 1- Run the script:
 ```
-python Amys_LinkMiner.py
+python LinkMiner.py
 ```
 
 2- You will be prompted to enter the starting URL for scraping.
@@ -95,6 +95,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Authors
 
-This project was developed by **Komeyl Kalhorinia** and **Ameneh Zarebidoki**. You can reach us at [Komylfa@gmail.com][AmenehZarebidoki@gmail.com] for any inquiries or contributions.
+This project was developed by **Komeyl Kalhorinia** . You can reach us at [Komylfa@gmail.com] for any inquiries or contributions.
 
-## Made with ❤️ by Komeyl Kalhorinia and AmenehZarebidoki
+## Made with ❤️ by Komeyl Kalhorinia
